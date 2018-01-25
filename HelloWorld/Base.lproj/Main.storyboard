@@ -35,8 +35,7 @@
                                 <rect key="frame" x="169" y="111" width="36" height="30"/>
                                 <state key="normal" title="Clear"/>
                                 <connections>
-                                    <action selector="clearTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2md-1x-fNI"/>
-                                    <action selector="helloClear:" destination="BYZ-38-t0r" eventType="touchUpInside" id="aOZ-pI-vXf"/>
+                                    <action selector="clearTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="53j-Fz-uBT"/>
                                 </connections>
                             </button>
                         </subviews>
